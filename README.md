@@ -40,7 +40,8 @@ python main.py
 
 ## Screenshots
 
-(Insert screenshots)
+![img1](screenshots/img1.png)
+
 
 ## Contributing
 
